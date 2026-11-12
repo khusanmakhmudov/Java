@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+bin/
+
+# Eclipse
+.settings/
+
+# IntelliJ IDEA
+.idea/
+out/
+
+# Operating system
+.DS_Store
+Thumbs.db
