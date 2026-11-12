@@ -1,0 +1,31 @@
+# Maven
+target/
+
+# Compiled Java files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Node.js, if a separate React client is present
+node_modules/
+build/
+dist/
+npm-debug.log*
